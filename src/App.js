@@ -7,9 +7,3 @@ export default function App(){
         </div>);
 }
 
-
-//to do App
-//header mylist
-//shows list
-//add
-//delete
